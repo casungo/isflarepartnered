@@ -1,5 +1,8 @@
 body {
-    font-family: 'Open Sans', sans-serif;font-size: 90px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 90px;
+    background-color: #191919;
+    color: white
 }
 
 div.center {
@@ -17,4 +20,17 @@ footer {
     bottom: 0;
     height: 50px;
     width: 100%;
+}
+
+a:link {
+    color: #99AAB5;
+}
+a:visited {
+    color: #99AAB5;
+}
+a:hover {
+    color: #99AAB5;
+}
+a:active {
+    color: #99AAB5;
 }

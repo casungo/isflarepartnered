@@ -1,5 +1,5 @@
 body {
-    font-family: 'Open Sans', sans-serif;font-size: 150%;
+    font-family: 'Open Sans', sans-serif;font-size: 90px;
 }
 
 div.center {
@@ -8,7 +8,7 @@ div.center {
 
 p.center {
     text-align: center;
-    font-size: 50%
+    font-size: 10px
 }
 
 footer {

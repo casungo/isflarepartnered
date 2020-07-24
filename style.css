@@ -1,12 +1,13 @@
 body {
     font-family: 'Open Sans', sans-serif;
-    font-size: 40px;
+    font-size: 100px;
     background-color: #191919;
     color: white
 }
 
 div.center {
     text-align: center;
+    height: px;
 }
 
 p.center {
@@ -17,7 +18,7 @@ p.center {
 footer {
     position: absolute;
     left: 0;
-    bottom: 0;
+    bottom: 1;
     height: 50px;
     width: 100%;
 }

@@ -1,0 +1,37 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 100px;
+    background-color: #191919;
+    color: white
+}
+
+div.center {
+    text-align: center;
+    height: px;
+}
+
+p.center {
+    text-align: center;
+    font-size: 15px
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 1;
+    height: 50px;
+    width: 100%;
+}
+
+a:link {
+    color: #99AAB5;
+}
+a:visited {
+    color: #99AAB5;
+}
+a:hover {
+    color: #99AAB5;
+}
+a:active {
+    color: #99AAB5;
+}
